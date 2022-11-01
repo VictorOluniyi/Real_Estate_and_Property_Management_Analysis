@@ -37,6 +37,6 @@ After importing my cleaned data into power bi workspace, I linked the dimension 
 Dashboard here
 
 
-[Real Estate.pdf](https://github.com/VictorOluniyi/Real_Estate_and_Property_Management_Analysis/files/9909729/Real.Estate.pdf)
+[Real Estate.pdf] (https://github.com/VictorOluniyi/Real_Estate_and_Property_Management_Analysis/files/9909729/Real.Estate.pdf)
 
 
