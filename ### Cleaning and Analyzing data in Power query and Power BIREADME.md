@@ -8,7 +8,7 @@ This project is about real estate industry and property management. I investigat
 After importing my data into power query, I checked for duplicates(found none),the validity of my data using column distribution, quality and profiling and truncated columns not needed for my analysis. New columns were also added (conditional columns) to know the total number of bedrooms and floors in an apartment, the waterfront status, renovation status and the properties' condition status. To navigate easily through the analysis, dimension tables were created from the fact table
 I also made sure my columns were in the right data type.
 
-![{7FC22BC3-515A-4AF4-9BD8-B3A8AB60B1C0} png](https://user-images.githubusercontent.com/115374063/199229312-97c3f06e-93d1-4cce-8336-56748c9c963a.jpg)
+![{207D3515-2017-4201-BF34-3E2E9299EFE7} png](https://user-images.githubusercontent.com/115374063/199231320-77fd37a7-d545-4091-b318-0e361f511663.jpg)
 
 ## Data Modelling 
 After importing my cleaned data into power bi workspace, I linked the dimension tables with their primary keys (IDs) for create relationship between the dimension tables. 
@@ -27,8 +27,16 @@ After importing my cleaned data into power bi workspace, I linked the dimension 
 ![bedroom](https://user-images.githubusercontent.com/115374063/199229875-78c409f4-6bd7-4793-96e8-66aa1c3da15a.jpg) 
 
 4. Almost half of the total properties are in need of renovation. This accounted for 48% of the total properties across all locations. Almost all the properties are also without waterfront. 
+
 ![Renovation status](https://user-images.githubusercontent.com/115374063/199229992-d1455e6d-4133-4b77-b89c-01d16e88ce39.jpg) ![renovatiin](https://user-images.githubusercontent.com/115374063/199230037-f1bd05ac-32f7-4633-b44b-69d5388a25df.jpg)
 
 5. Lastly, the analysis shows that, over half of the total properties are in 'very good condition' while about 16.1% of the total properties are in 'bad condition' which in turn needs immediate renovation.
 
 ![property condition](https://user-images.githubusercontent.com/115374063/199230267-bbfbc9aa-ea71-4108-b993-e55d15fc1af8.jpg)
+
+Dashboard here
+
+
+[Real Estate.pdf](https://github.com/VictorOluniyi/Real_Estate_and_Property_Management_Analysis/files/9909729/Real.Estate.pdf)
+
+
