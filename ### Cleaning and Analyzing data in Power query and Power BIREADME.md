@@ -35,8 +35,6 @@ After importing my cleaned data into power bi workspace, I linked the dimension 
 ![property condition](https://user-images.githubusercontent.com/115374063/199230267-bbfbc9aa-ea71-4108-b993-e55d15fc1af8.jpg)
 
 Dashboard here
-
-
-[Real Estate.pdf] (https://github.com/VictorOluniyi/Real_Estate_and_Property_Management_Analysis/files/9909729/Real.Estate.pdf)
-
+![Real Estate-1](https://user-images.githubusercontent.com/115374063/199234795-48ec28d4-7179-4663-b59a-282551348561.png)
+![Real Estate-2](https://user-images.githubusercontent.com/115374063/199234813-9d94be4b-fb83-44dd-9e34-290e2631e51b.png)
 
