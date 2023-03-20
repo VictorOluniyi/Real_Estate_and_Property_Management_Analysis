@@ -5,7 +5,7 @@
 This project is about real estate industry and property management. I investigated the number of properties in various locations, different types of floors, waterfront, and location. The analysis examines the status of the properties in order for decision makers to determine which properties require immediate attention and repair.
 
 ## TECH STACK
-Excel and Microsoft Power BI
+Power Query and Microsoft Power BI
 
 ## Data Cleaning 
 After importing my data into power query, I checked for duplicates(found none),the validity of my data using column distribution, quality and profiling and truncated columns not needed for my analysis. New columns were also added (conditional columns) to know the total number of bedrooms and floors in an apartment, the waterfront status, renovation status and the properties' condition status. To navigate easily through the analysis, dimension tables were created from the fact table
